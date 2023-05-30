@@ -1,0 +1,49 @@
+body{
+    background-image: url('../img/mitch-fox-McMw8DdSlJ4-unsplash.jpg');
+    background-size: cover;
+}
+.container{
+    background-color: #f9f9f9;
+    height: auto;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+h3, h2{
+    margin: 25px 0px;
+    text-align: center;
+
+}
+img {
+    width: 25vw;
+    height: auto;
+}
+.result{
+    font-size:24px;
+}
+.form-row{
+    display: flex;
+    justify-content: space-between;
+}
+td{
+    /* display: flex;
+    justify-content: space-evenly; */
+    width: 50%;
+    margin-right: 5px;
+}
+table{
+    width: 100%;
+
+}
+.calculator{
+    margin-bottom: 1rem;
+}
+.header{
+    margin: 25px;
+    padding: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input[type=submit]{
+    margin: 25px;
+}
